@@ -773,6 +773,7 @@ figcaption {
   border-color: var(--white);
   color: var(--white);
   background-color: rgba(0, 0, 0, 0);
+  border-radius: 3px;
   transition: all .2s;
 }
 
@@ -1682,7 +1683,7 @@ figcaption {
 }
 
 .header15_content-wrapper {
-  grid-column-gap: 5rem;
+  grid-column-gap: 3rem;
   grid-row-gap: 4rem;
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr;
